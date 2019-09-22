@@ -1,0 +1,14 @@
+/home/marcos/NetBeansProjects/Escola/src/main/java/com/school/escola/controller/exceptions/NonexistentEntityException.java
+/home/marcos/NetBeansProjects/Escola/src/main/java/com/school/escola/controller/exceptions/PreexistingEntityException.java
+/home/marcos/NetBeansProjects/Escola/src/main/java/com/school/escola/controller/util/JsfUtil.java
+/home/marcos/NetBeansProjects/Escola/src/main/java/com/school/escola/entity/EnumSexo.java
+/home/marcos/NetBeansProjects/Escola/src/main/java/com/school/escola/entity/Curso.java
+/home/marcos/NetBeansProjects/Escola/src/main/java/com/school/escola/controller/CursoJpaController.java
+/home/marcos/NetBeansProjects/Escola/src/main/java/com/school/escola/controller/CursoFacade.java
+/home/marcos/NetBeansProjects/Escola/src/main/java/com/school/escola/controller/AlunoFacade.java
+/home/marcos/NetBeansProjects/Escola/src/main/java/com/school/escola/entity/Aluno.java
+/home/marcos/NetBeansProjects/Escola/src/main/java/com/school/escola/controller/CursoController.java
+/home/marcos/NetBeansProjects/Escola/src/main/java/com/school/escola/controller/AbstractFacade.java
+/home/marcos/NetBeansProjects/Escola/src/main/java/com/school/escola/controller/exceptions/IllegalOrphanException.java
+/home/marcos/NetBeansProjects/Escola/src/main/java/com/school/escola/controller/exceptions/RollbackFailureException.java
+/home/marcos/NetBeansProjects/Escola/src/main/java/com/school/escola/controller/AlunoController.java
