@@ -1,0 +1,15 @@
+ORIENTAÇÕES
+
+Boa tarde, o app que escolhi desenvolver foi um simples CRUD no qual se envolveu duas (2) entidades, o curso e o aluno. O relacionamento é de muitos alunos para um (1) curso. O usuário pode criar, editar, visualizar por meio de uma listagem ou de forma específica e deletar um curso. Bem como também pode fazer tudo isso para um aluno. A diferença, entretanto, nesse aspecto, é o aparecimento de muito mais atributos para se preencher, tais como campos com Datas, sexo, o curso (dentre os que já foram cadastrados) e o ID gerado automaticamente.
+
+Há primefaces e um leve Bootstrap na aplicação também. 
+Assim como o item C.
+A publicação no Heroku foi feita perfeitamente, porém há um pequeno detalhe que redireciona para a página index errada.
+
+Uma vez que se está na index, é possível ir as páginas de Aluno e Curso, que se encontram no cabeçalho da index. 
+
+O banco de dados usado foi o PostgreSQL, o usuário "postgres", o banco "escola" e a senha "2508". A conexão JDBC com a pool do servidor setada em "jdbc/escola" e domínio "domain2" no localhost.
+
+Marcos Vinícius Rêgo Freire
+
+Itens feitos: A, B, C, F, G, J
